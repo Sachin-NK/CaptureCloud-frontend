@@ -10,6 +10,7 @@ export default function Header()
                     <Link to="/about">About</Link>
                     <Link to="/login">Login</Link>
                     <Link to="/signup ">Sign Up</Link>
+                    
                    
                 </div>
             </div>
